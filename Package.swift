@@ -34,15 +34,15 @@ let package = Package(
   ],
   dependencies: [
     .package(
-      url: "https://github.com/google/promises.git",
+      url: "https://github.com/dylanray134-dotcom/promises.git",
       "2.4.0" ..< "3.0.0"
     ),
     .package(
-      url: "https://github.com/google/GoogleUtilities.git",
+      url: "https://github.com/dylanray134-dotcom/GoogleUtilities.git",
       "8.0.0" ..< "9.0.0"
     ),
     .package(
-      url: "https://github.com/google/interop-ios-for-google-sdks.git",
+      url: "https://github.com/dylanray134-dotcom/interop-ios-for-google-sdks.git",
       "101.0.0" ..< "102.0.0"
     ),
   ],
